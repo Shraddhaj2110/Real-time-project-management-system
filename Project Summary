@@ -1,0 +1,43 @@
+Real Time Project Management System  
+IS Project 699 – Fall 2025  
+
+Group – 06  
+
+Team Members:  
+1. Shraddha Jadhav  
+2. Priyank Palshetkar  
+3. Atharv Dabadgaonkar  
+
+Organization Name: Real Time Project Management Systems  
+Project Link: https://dev.azure.com/ISproject699/  
+
+Instructor: A. Asher  
+
+Project Description:  
+The Real Time Project Management System is a web-based platform designed to help teams plan, track, and collaborate on projects more effectively.  
+It allows users to manage tasks, monitor progress in real time, allocate resources, and improve team communication and accountability.  
+The system also provides visual analytics dashboards for performance tracking and project insights.  
+
+Purpose of Repository:  
+This GitHub repository is used for software version control and collaborative development for the IS Project 699.  
+All team members will use this repository to:  
+- Store and organize project source code  
+- Track code changes through commits  
+- Manage different development versions using branches  
+- Collaborate and merge updates using pull requests  
+- Maintain project documentation and updates  
+
+Tools & Technologies:  
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MySQL  
+- **Visualization & Analytics:** Tableau / Power BI / Chart.js  
+- **Hosting & CI/CD:** Azure DevOps, GitHub  
+- **Version Control:** Git  
+
+Repository URL:  
+https://github.com/Shraddhaj2110/Real-time-project-management-system  
+
+Reviewers:  
+ashersculb@gmail.com  
+VyomDivyesh.Mistry01@student.csulb.edu  
